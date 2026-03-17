@@ -47,16 +47,18 @@ Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, p
 (Mini video de como se veía)
 
 <a href="https://drive.google.com/file/d/131SRgDg_3Xw0F0CrGDG8Pfg3GBESx0ky/view?usp=drive_link">
-  <img src="https://github.com/user-attachments/assets/cad0beae-2339-49e6-b38f-d364767254f5" width="500">
+  <img src="https://github.com/user-attachments/assets/cad0beae-2339-49e6-b38f-d364767254f5" width="250">
 </a>
 
 Lxs profesores, se tomaron el tiempo de explicarnos detalladamente por medio de un programa llamado: Tinkercad, y aplicamos la formula que nos enseñaron para formar el circuito; Un cable es una intersección, un circuito es algo que se puede circular, mientras haya camino entre los polos. Todo lo anteriormente mencionado, lo íbamos realizando al mismo ritmo de lxs docentes, y el objetivo de ellxs era prender una mini luz LED.
 
-<img src="https://github.com/user-attachments/assets/3fbf9c71-acb0-466a-ab94-cb184d7866a4" width="550">
-<img src="https://github.com/user-attachments/assets/8874a0a3-7628-4f2b-811f-d85c95745ff2" width="550">
-<img src="https://github.com/user-attachments/assets/04cefbfd-25d0-4320-af4a-34f20246ec2d" width="550">
+<img src="https://github.com/user-attachments/assets/3fbf9c71-acb0-466a-ab94-cb184d7866a4" width="250">
+<img src="https://github.com/user-attachments/assets/8874a0a3-7628-4f2b-811f-d85c95745ff2" width="250">
+<img src="https://github.com/user-attachments/assets/04cefbfd-25d0-4320-af4a-34f20246ec2d" width="250">
 
 Y la mejor parte, fue que se logró encender: (ver video)
 
-
+<a href="https://drive.google.com/file/d/1HNAP9hFyT1ohcfIG_VNH97K3YxNr2B4O/view?usp=drive_link">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUdY8tZ3k6NU9tu5oLw3sdZMID-MxhRJpRQ&s" width="200">
+</a>
 
