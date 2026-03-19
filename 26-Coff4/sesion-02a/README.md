@@ -53,6 +53,7 @@ Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en
 
 ![Segundo ejercicio](./imagenes/ejercicio-dos.png)
 
+
 | loquitoportilocoloco | D1 | D2 | D3 |
 | -------------------- | -- | -- | -- |
 | R1                   | 1   |  0  |1    |
@@ -67,6 +68,7 @@ Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en
 3:
 
 ![Tercer ejercicio](./imagenes/ejercicio-tres.png)
+
 
 | loquitoportilocoloco | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
