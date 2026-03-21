@@ -9,6 +9,7 @@ Referentes:
 2. Cocoquantus
 3. Zizifo
 4. Texas instruments
+5. Analog Sequencer- KORG SQ-10
 
 **Bob Widlar:** Wilarización es cuando algo te traiciona y lo rompes para que nunca más lo haga
 
