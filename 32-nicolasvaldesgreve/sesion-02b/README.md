@@ -6,6 +6,20 @@ Se nos entregó el chip NE555P, el cual es un circuito integrado (IC) que se uti
 
 ![Dibujo de chip NE555P](./imagenes/ne555.jpg)
 
+También se nos introdujo a los capacitores (o condensadores), en donde aprendimos que existen los capacitores electrolíticos que son polarizados, y los capacitores cerámicos que no tienen polarización. En el caso del capacitor electrolítico, se nos entregaron tres distintos:
+
+- Capacitor 1μF, 50V
+- Capacitor 10μF, 50V
+- Capacitor 100μF, 50V
+
+Mientras que en el caso de los capacitores cerámicos, se nos entregó uno que parece una lenteja, el cual tiene el número 104 escrito junto a un punto sobre el texto.
+
+Luego de introducirnos los capacitores y el chip, nos enseñaron cómo utilizar el chip dentro de un circuito, por lo que hicimos el siguiente ejercicio:
+
+![Circuito con chip NE555P](./imagenes/circuito-ne555.jpg)
+
+
+
 ---
 
 ### Capacitor de 10μF
