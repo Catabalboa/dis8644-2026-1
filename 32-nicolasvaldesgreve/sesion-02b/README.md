@@ -88,7 +88,7 @@ Personalmente, nunca me ha ido bien en las cosas que involucran cálculos (saqu�
 #### 10 Preguntas
 
 - ¿Hay alguna manera de conectar el parlante con el chip NE555P para que haga sonidos de manera intermitente así como parpadeaba el LED?
-- ¿Cómo podemos saber qué resistencias usar?, es decir, al momento de hacer crear nuestro propio circuito, ¿hay que sumar la corriente total de todo lo que queremos usar o tenemos que ir calculando componente por componente?
+- ¿Cómo podemos saber qué resistencias usar?, es decir, al momento de crear nuestro propio circuito, ¿hay que sumar la corriente total de todo lo que queremos usar o tenemos que ir calculando componente por componente?
 - En Interacciones Inalámbricas mencionó que dejó sugerencias en algunos apuntes de github, ¿eso también lo hace en taller?, de ser así, ¿dónde lo podemos ver?
 - 
 -
