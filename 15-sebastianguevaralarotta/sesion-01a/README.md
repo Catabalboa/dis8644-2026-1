@@ -7,7 +7,7 @@
 
 Un circuito eléctrico es un conjunto de elementos conectados entre sí que permiten el paso de la corriente eléctrica para realizar una función, como encender una luz o hacer funcionar un dispositivo.
 
-Para que funcione correctamente, el circuito debe estar cerrado; es decir, la corriente debe poder circular sin interrupciones.
+Para que funcione correctamente, el circuito debe estar cerrado es decir, la corriente debe poder circular sin interrupciones.
 
 ---
 
@@ -18,7 +18,7 @@ Para que funcione correctamente, el circuito debe estar cerrado; es decir, la co
 - Cables: permiten el paso de la corriente eléctrica entre los componentes.  
 - Batería: fuente de energía que suministra electricidad al circuito.  
 - Resistencia: regula o limita el paso de la corriente.  
-- LED (diodo emisor de luz): emite luz cuando pasa corriente eléctrica.  
+- LED : emite luz cuando pasa corriente eléctrica.  
 - Potenciómetro: permite variar la cantidad de corriente (por ejemplo, controlar el brillo o el volumen).  
 - Broche de batería: conecta la batería al circuito de forma segura.  
 
@@ -62,7 +62,7 @@ Se utiliza en sistemas eléctricos más complejos.
 
 ---
 
-## Materiales eléctricos
+## Materiales Aislantes y Conductores. 
 
 ### Conductores
 Son materiales que permiten el paso de la corriente eléctrica con facilidad.
@@ -97,14 +97,9 @@ Ejemplo: recubrimiento de cables.
 - Utilizar materiales aislantes para protección.  
 - Revisar las conexiones antes de encender un circuito.  
 
----
 
 
----
 
-## Conclusión
-
-Los circuitos eléctricos son fundamentales en la vida diaria. Comprender sus componentes, tipos y materiales permite desarrollar proyectos electrónicos básicos y entender el funcionamiento de muchos dispositivos de uso cotidiano.
 
      
                    
