@@ -34,7 +34,7 @@ Ver la película Sisters with Transistors, y enfocarse en una de las artistas, i
 
 ###  Daphne Oram 
 
-![Daphne Oram](./imagenes/Daphne_Oram.jpg)
+![Daphne Oram](./imagenes/daphne_oram.jpg)
 
 Daphne Oram (1925–2003) fue una compositora y pionera de la música electrónica británica. Inició su carrera en la BBC, donde fue cofundadora del BBC Radiophonic Workshop en 1958, un espacio dedicado a la experimentación sonora y al uso de nuevas tecnologías aplicadas a la música. Su trabajo se caracterizó por romper con las formas tradicionales de composición y por explorar nuevas relaciones entre sonido, tecnología y arte visual.
 
@@ -42,7 +42,7 @@ Daphne Oram (1925–2003) fue una compositora y pionera de la música electróni
 
 ### La máquina Oramics (opinión personal)
 
-![Daphne Oram](./imagenes/Oramics.webp)
+![Daphne Oram](./imagenes/oramics.webp)
 
 Lo que encuentro más relevante e impresionante del trabajo de Daphne Oram es la máquina Oramics. Me parece increíble que sea posible crear música a partir del dibujo, utilizando líneas y formas visuales para generar sonidos. Esta idea cambia completamente la manera de entender la composición musical, ya que no depende de instrumentos clásicos ni de partituras tradicionales.
 
