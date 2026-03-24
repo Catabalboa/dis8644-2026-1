@@ -69,3 +69,15 @@ elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto
 lo mismo que 2 pero con un disco de LCD Soundsystem.
 
 ## Análisis “Kraftwerk” y “LCD Soundsystem”.
+
+Kraftwerk:
+“El hombre maquina” (pero no el álbum, literalmente eran “humanoides” o eso querían representar en sus inicios).
+
+Kraftwerk, la verdad a sido una experiencia de escuchar, porque no tenia ni idea de donde venia este tipo de música, y lo más parecido que había escuchado hasta ahora, era “Sitting Down” de Psilodump (es mi canción favorita, de algún modo, este tipo de música que solo explora sonidos no convencionales, te hace sentir bien, activo, alegre y es super contagioso).
+
+El disco que yo escogí para analizar, no fue el primero ni el ultimo, es como intermedio en la línea de tiempo. Se llama “Numbers/Computer world”, salió en 1981, cuando los computadores todavía no eran parte de la vida cotidiana, pero Kraftwerk logra tomar eso y transformarlo en sonido, y representarlo. Aún así el disco gira completamente en torno a ese concepto, y aunque haya salido en este año, ya se puede comenzar a notar una diferencia en la composición musical de la banda…, pues en sus primeros discos, como “Kraftwerk”, se sentía más como una exploración sonora, y a medida que iban creando más canciones, se volvía más robótico, como si se fuera puliendo cada vez más, e hicieran más notoria su intención musical. 
+
+A nivel técnico, ya se nota un avance respecto a sus trabajos anteriores. El sonido es más limpio, más digital, menos “crudo” que en los 70. Se siente un poco más controlado. Los ritmos son súper precisos, y repetitivos, y las melodías son simples pero muy pegajosas. Lo que más me llamó la atención es cómo logran hacer música que suena como puros sonidos “ahí” (esto lo digo porque mi oído ya está muy contaminado por la música actual), pero que igual se queda en la cabeza y de algún modo es contagioso. 
+
+Escuchando su música más reciente al igual que sus presentaciones, aún intentan mantener su compostura “humanoide”, pero claro, como ahora tienen más recursos tecnológicos, visuales, etc…, también lo hacen parte de sus presentaciones, pero sin perder su esencia.
+
