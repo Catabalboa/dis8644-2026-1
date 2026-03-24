@@ -95,7 +95,7 @@ Regula la velocidad en la que parpadea la luz
 
 cuando se mira de frente está la pata 1,2 y 3
 
-### **Ejercicio 3** Foto resitor
+### **Ejercicio 3** Fotoresitor
 
 no tiene polaridad
 
