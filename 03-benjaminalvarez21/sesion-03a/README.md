@@ -40,9 +40,13 @@ esquema
 
 ![circuito con el parlante](./imagenes/circuito-con-parlante.png)
 
-aca dejare algunos videos de como funciona el parlante en el circuito 
+ejercicio con potenciometro
 
-aca otro video pero en vez de tener potenciometro, tiene fotorresistor
+https://github.com/user-attachments/assets/4c38dc6d-85c7-41c3-9480-1d74eac255be
+
+ejercicio con fotorresistor
+
+https://github.com/user-attachments/assets/35481624-8dea-41d3-8201-f6a4b48427d7
 
 ## encargo 03a
 
