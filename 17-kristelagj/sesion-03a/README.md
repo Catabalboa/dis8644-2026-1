@@ -88,6 +88,8 @@ No funciono, santi nos mando su resultado y compare que me faltaba que el tenia 
 1. Santi utilizo cables caimán para cconectar el parlante y yo no.
 2. A los interruptores les coloco
 
+![prueba 3](imagenes/prueba_3.png)
+
 - Cómo leer un esquemáticouncable que los direccionara al 555 y yo solo los coloque
 
 **Diagrama esquemático:** Representación simplificada de los elementos en un circuito. No sólo muestra cómo están conectados los componentes, sino cómo influye la electricidad a través del circuito.
