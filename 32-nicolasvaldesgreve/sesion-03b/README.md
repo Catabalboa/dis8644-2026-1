@@ -28,4 +28,4 @@ En mi caso, tenía una protoboard chiquita asi que con mi compañero nos encarga
 
 Cuando volvimos a la sala y estabamos justo en frente de la puerta el atari punk empezó a hacer una melodía por si solo, lo que nos emocionó mucho y no alcanzamos a grabar cuando nos movimos para intentarlo. Cuando dejó de sonar, intentamos replicar el sonido moviendo cables para los lados y empujando un poco el potenciómetro, pero nada fue igual a lo que habíamos oido lo cual nos dejó un poco decepcionados. Luego de tratar de replicar lo que había sucedido, llegamos a la conclusión de que solo se había movido un cable y quedó mal conectado lo cual provocó que hiciera una melodía por si solo.
 
-(Ver videos en carpeta de imagenes "intento-recuperar-melodia1", "intento-recuperar-melodia2" para ver cómo se movieron los componentes de la protoboard).
+(Ver videos en carpeta de imagenes "intento-recuperar-melodia1", "intento-recuperar-melodia2" y "moviendo-cable-bateria" para ver cómo se movieron los componentes de la protoboard).
