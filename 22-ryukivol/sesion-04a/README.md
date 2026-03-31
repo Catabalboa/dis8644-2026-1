@@ -29,7 +29,9 @@
 - 
 
 ### Pins 555 
-![555-timer-tutorial-fig2](https://github.com/user-attachments/assets/dedd17ea-928b-48f9-95f1-bd98389b11ee)
-![Grabación de pantalla 2026-03-31 103133](https://github.com/user-attachments/assets/81110852-d578-4de0-9ea8-6f76d123ca87)
+- pins y nombres del 555
+  + ![555-timer-tutorial-fig2](https://github.com/user-attachments/assets/dedd17ea-928b-48f9-95f1-bd98389b11ee)
+- funcionamiento interno del 555
+  + ![Grabación de pantalla 2026-03-31 103133](https://github.com/user-attachments/assets/81110852-d578-4de0-9ea8-6f76d123ca87)
 
 
