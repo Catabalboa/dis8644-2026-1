@@ -13,7 +13,9 @@
 4. Fuentes de energía alternativas: según los datasheet.
 
 - 9V si: Batería como las que tenemos
+  
 - 12V si: Batería de auto, Paneles solares
+
 - 5V si: USB-A, power bank
 
 Los cargadores se calientan porque todo movimiento genera fricción.
