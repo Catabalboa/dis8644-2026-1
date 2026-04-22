@@ -43,7 +43,8 @@ Circuito integrado de 14 patas que contiene 4 compuertas NAND con *disparador Sc
 ![bitacora-05-a](./imagenes/cd4093-bitacora-sesion-05-a-antoniaamc.jpg)  
 Página con muy buenas explicaciones: [CD4093](https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/)
 
-![bitacora-05-a](./imagenes/circuito-integrado-4093-bitacora-sesion-05-a-antoniaamc.jpg)
+![bitacora-05-a](./imagenes/circuito-integrado-4093-bitacora-sesion-05-a-antoniaamc.jpg)  
+Fuente: [Link](https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/)
 
 ## Tabla de Pines (Pinout)
 
