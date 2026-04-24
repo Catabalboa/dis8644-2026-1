@@ -6,11 +6,17 @@
 
 - Frei Otto → Soap Film → Jabón
 
+Realizaba uan simulación de la estrucutra en base a burbujas de jabón, generando formas organicas y autosustentables en términos estructurales
+
 > Paralelismo Gaudi → Sagrada familia → Catenarias 
+>
+> > Términos interesantes para investigar, ya que es de mi ínteres las estructuras y más aún las autosustentables
 
 <br>
 
 - Tokio Metro Fungi 
+
+Sigue la lógica anterior y relata como se desarrolló el metro de Tokio en base a la expansión de micelio. Se extrapoló el plano de Tokio y se colocó sustrato en base a las densidades poblacionales, por lo que este se expandio minimizando el esfuerzo, siendo así la ruta más optima
 
 <br>
 
@@ -51,6 +57,23 @@ Mi plan es tener un cable USB A, con conexión dupont al otro extremo, para alim
 <br>
 
 ### Desarrollo en clase ###
+
+Se volvió a armar cada circuito, con los siguientes puntos en consideración:
+
+a. Establecimos un trabajo dual, en este caso Isidora y yo armamos el chip 4093 y 386. Dayana y Carla el 555 y 4017
+
+#### 4093 ####
+
+1. El primer intento salio horrible, nada prendió. Tratamos de ver donde existía el error, pero estaba demasiado desorganizado, no encotrabamos el _camino_ de ningún pin. Por lo que establecimos entendienddo que este IC es modular, esto significa que tenemos 4 módulos, que se repiten bajo el mismo patrón
+
+    a. Un pin _Input_ con una conexión al 4017
+
+    b. Otro pin _Input_ que se conecta a un Capacitor y al pin externo de un potenciometro
+
+    c. Finalmente un pin _Output_, que conecta al IC con el pin medio de un potenciometro además de una resistencia de 1kΩ
+
+    d. 
+ 
 
 [Adjuntar imagenes y detaller que salió mal
 Spoiler: el error estaba entre el circuito y la silla]
