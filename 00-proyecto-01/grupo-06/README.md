@@ -45,8 +45,8 @@ El sistema se organiza en cuatro etapas, cada una realizada por un circuito inte
 ![sinte](imagenes/listo.jpg)
 
 Video 1: https://youtube.com/shorts/EZvZhcw6Tzs?feature=share
-Video 2: https://youtube.com/shorts/NSwSG6KaihU?feature=share
 
+Video 2: https://youtube.com/shorts/NSwSG6KaihU?feature=share
 
 ## proceso y resultados del reloj y secuenciador
 
@@ -134,8 +134,13 @@ Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 38
 Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10uf), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 uf
 Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 uf, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
 
+Videos del mut: 
 
-video del mut.
+1: https://youtube.com/shorts/5PpWNb0iPO0?feature=share
+
+2: https://youtube.com/shorts/UJPJm3hy5Yk?feature=share
+
+3: https://youtube.com/shorts/5tdJ-7rMd7w?feature=share
 
 Tras completar el ajuste de los condensadores, el siguiente paso fue sustituir el potenciómetro por un fotorreceptor (sensor de luz) del primer módulo para experimentar con nuevas formas de interacción. Este cambio nos gustó más para el proyecto, ya que permitía una modulación dinámica del sistema: al aumentar la intensidad lumínica, el dispositivo generaba un sonido más rápido, mientras que en condiciones de oscuridad la velocidad disminuye. 
 
