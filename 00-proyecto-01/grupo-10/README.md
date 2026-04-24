@@ -1,4 +1,6 @@
-# grupo-01
+# grupo-10
+
+## **LA TOSTADORA INASTABLE** 
 
 ## integrantes
 
@@ -72,10 +74,6 @@ Pero lo importante es que con ayuda y descartando posibilidades pudimos hacer qu
 
 *Entre todo este proceso quisimos mantener los LEDS de la versión 2 del esquemático, pero después de intentarlo un tiempo prudente, decidimos descartarlo por el plazo de tiempo que teníamos* 
 
-![Foto Impresiones 3D](./imagenes/xxxx)
-
-
-
 ## proceso y resultados de osciladores y amplificador
 
 Tanto con el chip 4093 y el 386 tuvimos más complicaciones a la hora de implementarlos, ya que eran necesarios los chips anteriores para comprobar la eficacia de estos nuevos,  sobretodo hablando con el cableado, el cual contenía 4 entradas NAND, lo que suponía una gran cantidad de cables que fácilmente podrían ser confundidos entre ellos por los STEPS, en donde los LEDS del 4017 y la salida de sonido del 386 son los que comprobaban que el 4093 funcionara correctamente y ahora al depender de 3 circuitos todo podía ser más inestable, tanto por los cableados como por los chips
@@ -94,8 +92,12 @@ Una vez visto que el sintetizador empezó a producir frecuencias audibles  nueva
 
 **Step 4**:  Se colocaron 2 capacitadores de 0.47 uf en serie
 
-![Foto Impresiones 3D](./imagenes/xxxx)
+Se hizo con la intención de obtener 4 sonidos totalmente distintos, desde el STEP 1, que es donde la frecuencia es menor, específicamente 0.46 Hrz y STEP 4 donde la frecuencia es más alta: 45.95 Hrz.
 
+Las páginas que utilizamos para calcular la frecuencia fueron, una recomendada por Aaron: 
+https://stompboxelectronics.com/resources/schmitt-trigger-oscillator-calculator/ y otra que encontramos en internet para sumar capacitores en serie: https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-series-and-parallel-capacitor 
+
+![modificaciones](./imagenes/modificaciones-sptes.jpeg)
 
 ## modificaciones realizadas a los circuitos originales
 
@@ -108,8 +110,6 @@ Una vez visto que el sintetizador empezó a producir frecuencias audibles  nueva
 4.Al CD4017 se les sacó los leds, recomendado por Aaron y Matias, ya que desestabilizan el circuito.
 
 5.Utilizacion de potenciometro logaritmico para controlar el volumen.
-
-![Foto Impresiones 3D](./imagenes/xxxx)
 
 ## carcasas de cartón
 
@@ -131,10 +131,23 @@ Se inició el trabajo de la fabricación de los módulos individuales para cada 
 
 ![circuito-01](./imagenes/circuito-01.jpeg)
 
+![proceso-05](./imagenes/proceso-05.jpg)
 
+![diagrama](./imagenes/diagrama-bloque.jpg)
 
 ## resultados finales
-FALTA TEXTOOOO-lo agregaremos ahora
+
+Como resultado de este arduo trabajo obtenemos un sintetizador con diferentes cambios pensados para obtener la mejor experiencia del usuario
+
+todo lo que es carcasa está pensado para que el circuito completo pueda conectarse desde cada cara, con ello también conseguimos que la manipulación de los potenciómetros sea más cómoda, al agregarles un soporte a las perillas para girarlas y mantener estas últimas en lugares óptimos para su uso con el público, para hacer un mayor control tanto en volumen, velocidad y las frecuencias
+
+Y a la par, tener un circuito funcional que logre transmitir y configurar todo esto de la forma más óptima posible siempre pensando en el usuario
+
+Como punto importante tenemos un conjunto de chips, que por separado cumplen funciones específicas y al unirlos se articulan en un sistema rítmico que se puede controlar según las preferencias, todo esto considera:
+
+Pulso / 555  ➢Potenciómetro y Capacitor
+Frecuencia / 4093 ➢ Capacitores y Potenciómetros
+Volumen / 386 ➢ Potenciometro Logaritmico
 
 [![error-de-prueba](./imagenes/error-de-prueba.jpg)](https://youtube.com/shorts/9d-iETjBh5E?feature=share)
 
@@ -158,6 +171,11 @@ FALTA TEXTOOOO-lo agregaremos ahora
 
 [![prueba2-final](./imagenes/2da-prueba-resultado.jpg)](https://youtu.be/D56QWDAkTL0)
 
+[![01](./imagenes/imagenes/01.jpeg)]([https://youtu.be/D56QWDAkTL0](https://youtube.com/shorts/Itqm63-fofQ?feature=share))
+
+![la tostadora](./imagenes/la-tostadora-inastable-01.jpeg)
+
+![la-tostadora-02](./imagenes/la-tostadora-inastable-02.jpeg)
 
 ## aprendizajes y errores
 
@@ -179,6 +197,7 @@ por lo que curiosamente, del error terminamos aprendiendo más, de que si todo h
 
 ![proceso-00](./imagenes/proceso-00.jpeg)
 
+![proceso-03](./imagenes/proceso-03.jpg)
 
 ## conclusiones
 
@@ -193,9 +212,11 @@ Como último punto:
 
 También podemos mencionar que hubieron ideas descartadas en nuestro desarrollo 
 
-Implementar 1 protoboard separada para la alimentación de todos los chips
-Otra protoboard para que el usuario pudiera manipular y experimentar con los tonos del sintetizador y los condensadores
-Mantener los LEDS del 4017 para el sintetizador final
+-Implementar 1 protoboard separada para la alimentación de todos los chips
+
+-Otra protoboard para que el usuario pudiera manipular y experimentar con los tonos del sintetizador y los condensadores
+
+-Mantener los LEDS del 4017 para el sintetizador final
 
 Y usar otra manera de dar energía al circuito. 
 En un momento decidimos investigar sobre maneras creativas de hacer esto y logramos que esto funcionara, e investigando vimos que hay muchos objetos e incluso personas que pueden ser parte de estos circuitos para proporcionar energía a otros.
@@ -206,9 +227,13 @@ https://microbit.org/es-es/projects/make-it-code-it/human-circuit-experiment/
 https://www.sciencebuddies.org/science-fair-projects/project-ideas/Energy_p015/energy-power/make-a-battery-from-coins 
 
 Cómo funcionan los chips:
+
 https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/ 
+
 https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4017/ 
-https://www.homemade-circuits.com/ic-lm-386-datasheet-explained-in-simple/ 
+
+https://www.homemade-circuits.com/ic-lm-386-datasheet-explained-in-simple/
+
 https://www.incb.com.mx/index.php/articulos/53-como-funcionan/768-como-funciona-el-circuito-integrado-555-art123s 
 
 FALTA EL LINK DE LOS CALCULOS DE LA DAYA
