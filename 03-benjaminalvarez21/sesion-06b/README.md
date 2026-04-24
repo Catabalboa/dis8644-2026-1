@@ -2,6 +2,8 @@
 
 ## Trabajo en clase
 
+![nuevo esquematico misa](./imagenes/sinte-misa-nuevo.png)
+
 Reconstruimos el circuito completo desde cero, incorporando los cambios sugeridos por Misa y el Aarón. Quitamos los LEDs que estábamos usando y añadimos condensadores de 100 nF para mejorar la estabilidad del sistema.
 
 Probamos el 555 y el 4017 por separado, y ambos funcionaban correctamente, pero el resto del circuito seguía dando problemas. Luego reconstruimos el 4093 desde cero en clase, logrando inicialmente que funcionaran dos de sus compuertas. Más tarde, en mi casa, ajusté las dos restantes hasta que todas funcionaron bien.
