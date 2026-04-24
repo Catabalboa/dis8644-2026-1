@@ -10,7 +10,7 @@
 
 ## descripción del sintetizador realizado
 
-Este proyecto consiste en la construcción de un sintetizador básico que permite generar y modificar sonidos. Lo construimos utilizando dos cajas de cartón que forman un pez, donde organizamos los componentes en distintas partes.
+Este proyecto consiste en la construcción de un sintetizador que permite generar y modificar sonidos. Lo construimos utilizando dos cajas de cartón que forman un pez, donde organizamos los componentes en distintas partes.
 
 En la cabeza del pez instalamos un temporizador 555, un secuenciador 4017 y un interruptor ON/OFF para encender y apagar el sistema. El 555 genera pulsos que se envían al 4017, haciendo que active sus salidas una por una y cree la secuencia. Además, agregamos un potenciómetro en la posición del ojo, que permite controlar la velocidad del ritmo. La cabeza se conecta con el cuerpo mediante cables macho-hembra, donde se ubica un 4093 que modifica la señal y aporta la textura del sonido, junto con cuatro potenciómetros en el lomo que permiten variar los tonos.
 
