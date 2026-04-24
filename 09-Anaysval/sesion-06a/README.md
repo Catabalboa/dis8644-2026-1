@@ -10,10 +10,10 @@ Dentro de esta estructura:
 
 - El 555 marca el ritmo.
 - El 4017 va activando cada paso uno por uno.
-- El 4093 genera el sonido.
-- El LM386 hace el sonido más fuerte.
-- El parlante es donde se escucha.
-  
+- El CD4093 usa 4 compuertas NAND que ocupamos para generar y moldear la señal de audio.
+- El LM386 amplifica el sonido para que se escuche más fuerte.
+- El parlante es donde finalmente se escucha el sonido.
+
 ### Schmitt Trigger
 
 Uno de los temas que se reforzó fue el funcionamiento del Schmitt Trigger. Se explicó de forma más simple, entendiéndolo como un componente que estabiliza señales.
@@ -48,7 +48,7 @@ La clase se centró en avanzar en la primera evaluación, empezando a trabajar e
 
 ![foto](./imagenes/4pasos.png)
 
-![foto](./imagenes/gif.gif)
+![foto](./imagenes/ola.gif)
 
 ![foto](./imagenes/1foto.jpg)
 
