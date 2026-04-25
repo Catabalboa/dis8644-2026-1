@@ -58,9 +58,9 @@ Mi plan es tener un cable USB A, con conexión dupont al otro extremo, para alim
 
 ### Desarrollo en clase ###
 
-Se volvió a armar cada circuito, con los siguientes puntos en consideración:
+Se volvió a armar cada circuito, pero considerando lo descubierto en la sesión anterior esta vez realizamos de manera grupal circuito por circuito, establecimos un sistema: una persona ejecuta, otra le dicta cada paso, otra revisa que se esté ejecutando bien el cableado, la última toma apuntes.
 
-a. Establecimos un trabajo dual, en este caso Isidora y yo armamos el chip 4093 y 386. Dayana y Carla el 555 y 4017
+Además, esta sesión si pudimos realizar todos los circuitos... pero no sonó. Ahora detallo el proceso general por chip
 
 #### 4093 ####
 
