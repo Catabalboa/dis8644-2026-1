@@ -5,6 +5,7 @@ Martes 28.04.2026
 ESTOY CON EL MACBOOK DEL PROFE Y ESTA MEDIO RARO EL TECLADO. NO TIENE TILDE Y LOS CARACTERES NO SE COLOCAN COMO DEBEN.
 
 En la clase nos estan enseñando a usar KiCad.
+Igual me perdí en la clase porque se me complicó con el computador + 3 horas de sueño.
 
 + Proceso
 
@@ -19,10 +20,13 @@ En la clase nos estan enseñando a usar KiCad.
 
  ### Apuntes
 
-+ Las diferencias de los componentes y sus letras que les siguen como por ejemplo el chip ne555P que es el que estamos usando, tiene su variantes como el 555D
++ Las diferencias de los componentes y sus letras que les siguen como por ejemplo el chip ne555P que es el que estamos usando, tiene su variantes como el 555D.
 + Para añadir componente se tiene que seleccionar en la barra la categoría de add symbols, después en la barra de búsqueda escribes el nombre del componente que quieras usar.
 + Existen diferentes formas de expresar los símbolos de los componentes, usualmente usamos el modelo europeo.
-+ Funciona muy parecido al AutoCad
++ Funciona muy parecido al AutoCad.
 + Para hacer anotaciones con texto, se usa el comando letra T o seleccionarlo en la barra de la izquierda.
 + Para hacer conexiones con componentes solo se presiona una vez sobre el final de este hacia el final del otro.
-+ el VCC y el GND se busca también en add symbol
++ el VCC y el GND se busca también en add symbol.
++ Con la letra G en el tecxlado se pueden mover los componentes.
++ El cuadrado verde en las conexiones de cables isgnifica que no hay conexión.
++ Con V se cambia el valor de los componentes como por ejemplo la unidad de capacidad de los capacitores. Esto después de seleccionarlo con el cuadrado. Se escribe en VALOR.
