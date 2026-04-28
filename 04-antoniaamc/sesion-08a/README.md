@@ -28,13 +28,13 @@ FALTA: Terminar esquemáticos, revisar la cápsula de la clase, subir capturas y
 ---
 
 ## Dimensiones y estándares  
-!!! ***Atención*** con la búsqueda y uso de componentes, hay que prestar **especial atención** a las dimensiones físicas de uno. En general no es necesario buscar componentes con capacidades de voltaje demasiado altas (perdida de plata, mejor quedarse con lo necesario. A menos que...)
+🟡 !!! ***Atención*** con la búsqueda y uso de componentes, hay que prestar **especial atención** a las dimensiones físicas de cada uno. En general no es necesario buscar componentes con capacidades de voltaje demasiado altas (perdida de plata, mejor quedarse con lo necesario. A menos que...)
 
 Para encontrar dimensiones exactas, recomendación práctica:
 
 1. Usar footprint de KiCad
 2. Leer sus dimensiones
-3. Solo si es crítico → confirmar con datasheet  
+3. Solo si es crítico → confirmar con datasheet (hoja de datos o ficha técnica)  
 Ejemplo:  
 - *resistor 1/4W datasheet*
 
@@ -124,6 +124,10 @@ Ejemplo:
    → importante: 
    - solo válido si el componente físico es equivalente  
    - no siempre intercambiable (ej: radial vs axial)
+  
+
+bibliografia y anexos arreglar despues: https://cursos.mcielectronics.cl/2019/06/18/identificacion-de-condensadores/
+
 
 
 
